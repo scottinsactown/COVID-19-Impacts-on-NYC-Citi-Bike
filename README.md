@@ -1,7 +1,7 @@
 # The Impact of the COVID-19 Pandemic on Citi Bike Trips in New York City 
 
 View the Tableau Public dashboard: 
-https://public.tableau.com/profile/scott.clark2341#!/vizhome/CitiBike2020/Story1
+https://public.tableau.com/profile/scott.clark2341#!/vizhome/CitiBike2020/COVID-19Story 
 
 ### Context
 
@@ -28,7 +28,7 @@ On March 1, 2020, New York City announced its first case of COVID-19, the severe
 - New York City Health Department: https://www1.nyc.gov/site/doh/covid/covid-19-data.page
 
 ### Visualizations
-Visit Tableau Public for interactive versions: https://public.tableau.com/profile/scott.clark2341#!/vizhome/CitiBike2020/Story1
+Visit Tableau Public for interactive versions: https://public.tableau.com/profile/scott.clark2341#!/vizhome/CitiBike2020/COVID-19Story
 
 ![Trip number and duration](Images/CB_Dash_1.JPG)
 
