@@ -1,6 +1,6 @@
 # The Impact of the COVID-19 Pandemic on Citi Bike Trips in New York City 
 
-View the Tableau Public dashboard, optimized for laptops and tablets: 
+View the Tableau Public dashboard (optimized for laptops and tablets): 
 https://public.tableau.com/profile/scott.clark2341#!/vizhome/CitiBike2020/COVID-19Story 
 
 ### Context
