@@ -1,6 +1,6 @@
 # The Impact of the COVID-19 Pandemic on Citi Bike Trips in New York City 
 
-View the Tableau Public dashboard: 
+View the Tableau Public dashboard, optimized for laptops and tablets: 
 https://public.tableau.com/profile/scott.clark2341#!/vizhome/CitiBike2020/COVID-19Story 
 
 ### Context
@@ -21,7 +21,7 @@ On March 1, 2020, New York City announced its first case of COVID-19, the severe
 - Calculated fields
 - Map layers
 - Chart with synchronized dual axis
-- Horizontal Y axis labels (work around for a well-known Tableau limitation)
+- Horizontal Y axis labels (work around for a Tableau limitation)
 
 ### Data Sources
 - Citi Bike System Data: https://www.citibikenyc.com/system-data
