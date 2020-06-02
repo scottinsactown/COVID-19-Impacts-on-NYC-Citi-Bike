@@ -21,7 +21,7 @@ On March 1, 2020, New York City announced its first case of COVID-19, the severe
 - Calculated fields
 - Map layers
 - Chart with synchronized dual axis
-- Horizontal Y axis labels (work around for a Tableau limitation)
+- Horizontal Y axis labels (workaround for a Tableau limitation)
 
 ### Data Sources
 - Citi Bike System Data: https://www.citibikenyc.com/system-data
